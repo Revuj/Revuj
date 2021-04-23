@@ -1,9 +1,9 @@
 ### Hi there, I'm [João Rafael Varela][website] 👋
 
-## I study Computer Engineering in Porto and freelance as a web developer.
+## I study Computer Engineering in Porto
 
-- 🌱 I’m currently working as a Software Engineer for [INESC TEC][inesctec]!
-- ⚡ I love programming and sports.
+- 🌱 I’m currently on the 4th year of my masters. One more to go!
+- ⚡ I enjoy programming, sports and a good Gin & Tonic.
 
 ### Reach out to me:
 
