@@ -2,8 +2,8 @@
 
 ## I study Computer Engineering in Porto
 
-- 🌱 I’m currently on the 2th year of my masters. One more to go!
-- ⚡ I enjoy programming, sports and a good Gin & Tonic.
+- 🌱 I’m currently on the final year of my masters!
+- ⚡ I enjoy programming, sports, travelling and a good Gin & Tonic.
 
 ### Reach out to me:
 
