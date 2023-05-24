@@ -1,9 +1,9 @@
-### Hi there, I'm [João Rafael Varela][website] 👋
+### Hi there, I'm [Rafa][website] 👋
 
-## I study Computer Engineering in Porto
+## I work as a Software Engineer for AWS
 
-- 🌱 I’m currently on the final year of my masters!
-- ⚡ I enjoy programming, sports, travelling and a good Gin & Tonic.
+- 🌱 Programming enthusiast that loves to build and is sometimes good at it.
+- ⚡ I enjoy traveling, cooking, and I might be addicted to the guitar.
 
 ### Reach out to me:
 
