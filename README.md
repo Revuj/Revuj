@@ -1,6 +1,6 @@
 ### Hi there, I'm [Rafa][website] 👋
 
-## I work as a Software Engineer for AWS
+## I work as Senior Software Engineer for Miro
 
 - 🌱 Programming enthusiast that loves to build and is sometimes good at it.
 - ⚡ I enjoy traveling, cooking, and I might be addicted to the guitar.
